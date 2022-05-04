@@ -1,0 +1,5 @@
+package strings
+
+object PlayGround {
+
+}
